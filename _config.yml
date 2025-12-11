@@ -16,5 +16,5 @@ kramdown:
   syntax_highlighter: rouge
 
 url: "https://xxxxyyyy80008.github.io/ds"
-baseurl: "" 
+baseurl: "ds" 
 
