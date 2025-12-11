@@ -1,5 +1,9 @@
 ---
+layout: default
 title: Data Visualization and Analysis Handbook (Apr 2019 v2)
+parent: Data Visualization and Analysis Handbook
+grand_parent: Data Analytics
+nav_order: 1
 ---
 
 
