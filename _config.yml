@@ -15,6 +15,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-url: "https://xxxxyyyy80008.github.io/ds"
-baseurl: "ds" 
+url: "https://xxxxyyyy80008.github.io"
+baseurl: "/ds" 
 
