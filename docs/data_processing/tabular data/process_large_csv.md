@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-### How to process a large csv file with pandas and parquet
+## How to process a large csv file with pandas and parquet
 
 *Jul 8, 2022*
 
