@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Processing - Image Data
+title:  Image Data
 parent: Data Processing
 nav_order: 1
 ---

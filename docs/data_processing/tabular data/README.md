@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Processing - Tabular Data
+title: Tabular Data
 parent: Data Processing
 nav_order: 1
 ---

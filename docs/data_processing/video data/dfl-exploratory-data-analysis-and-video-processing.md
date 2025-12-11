@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DFL Exploratory Data Analysis and Video Processing 
-parent: Data Processing - Video Data
+parent: Video Data
 grand_parent: Data Processing
 nav_order: 1
 ---

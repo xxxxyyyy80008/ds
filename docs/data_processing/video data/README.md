@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Processing - Video Data
+title: Video Data
 parent: Data Processing
 nav_order: 3
 ---
