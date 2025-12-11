@@ -1,10 +1,8 @@
 ---
-sort: 2
+layout: default
 title: Data Processing - Image Data
+parent: Data Processing
+nav_order: 1
 ---
 
-
-**Data Processing - Image Data**
-
-
-{% include list.liquid all=true %}
+### Data Processing - Image Data

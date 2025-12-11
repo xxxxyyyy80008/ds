@@ -1,6 +1,11 @@
 ---
+layout: default
 title: Exploratory data analysis of AMEX Default Prediction Train Data using Dask
+parent: Data Processing - Tabular Data
+grand_parent: Data Processing
+nav_order: 2
 ---
+
 
 ## Exploratory data analysis of AMEX Default Prediction Train Data using Dask
 

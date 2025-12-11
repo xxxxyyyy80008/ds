@@ -1,10 +1,8 @@
 ---
-sort: 1
+layout: default
 title: Data Processing - Tabular Data
+parent: Data Processing
+nav_order: 1
 ---
 
-
-**Data Processing - Tabular Data**
-
-
-{% include list.liquid all=true %}
+### Data Processing - Tabular Data

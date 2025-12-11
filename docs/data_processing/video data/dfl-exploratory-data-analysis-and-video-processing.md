@@ -1,3 +1,11 @@
+---
+layout: default
+title: DFL Exploratory Data Analysis and Video Processing 
+parent: Data Processing - Video Data
+grand_parent: Data Processing
+nav_order: 1
+---
+
 ## DFL Exploratory Data Analysis and Video Processing 
 
 ###  Part I: install packages for video data processing and analysis

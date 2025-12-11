@@ -1,10 +1,8 @@
 ---
-sort: 3
+layout: default
 title: Data Processing - Video Data
+parent: Data Processing
+nav_order: 3
 ---
 
-
-**Data Processing - Video Data**
-
-
-{% include list.liquid all=true %}
+### Data Processing - Video Data

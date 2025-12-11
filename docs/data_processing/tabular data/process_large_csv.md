@@ -1,6 +1,11 @@
 ---
+layout: default
 title: How to process a large csv file with pandas and parquet
+parent: Data Processing - Tabular Data
+grand_parent: Data Processing
+nav_order: 1
 ---
+
 
 ### How to process a large csv file with pandas and parquet
 

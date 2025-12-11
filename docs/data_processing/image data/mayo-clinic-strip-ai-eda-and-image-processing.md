@@ -1,7 +1,10 @@
 ---
+layout: default
 title: Mayo Clinic - STRIP AI - Exploratory data analysis and Image processing with Pillow (PIL)
+parent: Data Processing - Image Data
+grand_parent: Data Processing
+nav_order: 1
 ---
-
 
 
 ## Mayo Clinic - STRIP AI - Exploratory data analysis and Image processing with Pillow (PIL)
