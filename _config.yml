@@ -1,4 +1,4 @@
-title: "Quantitative Research"
+title: "Data Science"
 description: "Research notes and projects in quantitative finance, statistics, and machine learning."
 remote_theme: just-the-docs/just-the-docs
 
@@ -15,6 +15,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-url: "https://xxxxyyyy80008.github.io"
+url: "https://xxxxyyyy80008.github.io/ds"
 baseurl: "" 
 
