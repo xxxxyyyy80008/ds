@@ -135,10 +135,10 @@ Choices about graph type, text, arrangement, color, and lines should reinforce t
 ***
 
 #### Data Visualization Anatomy Chart
-![png](img/Picture1.png)
+![png](examples/img/Picture1.png)
 
 
-![png](img/Picture2.jpg)
+![png](examples/img/Picture2.jpg)
 
 
 *reference:*
