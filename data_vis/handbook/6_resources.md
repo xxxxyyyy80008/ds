@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Resources
-parent: Data Visualization Handbook (2022)
+parent: Data Visualization Handbook
 grand_parent: Data Visualization
 nav_order: 6
 ---
 
 
-## Data Visualization Handbook (2022)
+## Data Visualization Handbook
 
 ###  Resources
 

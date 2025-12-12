@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Data visualization check list
-parent: Data Visualization Handbook (2022)
+parent: Data Visualization Handbook
 grand_parent: Data Visualization
 nav_order: 1
 ---
 
 
-## Data Visualization Handbook (2022)
+## Data Visualization Handbook
 
 ###  Data visualization check list
 

@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Visualization Examples
-parent: Data Visualization Handbook (2019)
+parent: Data Visualization Handbook
 grand_parent: Data Visualization
 nav_order: 3
 ---
 
 
 
-## Data Visualization Handbook (2019)
+## Data Visualization Handbook
 
 ###  Examples of visualizations
 

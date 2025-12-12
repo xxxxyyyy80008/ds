@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Chart selection
-parent: Data Visualization Handbook (2022)
+parent: Data Visualization Handbook
 grand_parent: Data Visualization
 nav_order: 2
 ---
 
 
-## Data Visualization Handbook (2022)
+## Data Visualization Handbook
 
 ###  Chart selection
 
