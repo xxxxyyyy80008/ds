@@ -1,28 +1,15 @@
 ---
 layout: default
 title: Chart selection
-parent: Data Visualization and Analysis Handbook (2022)
+parent: Data Visualization Handbook (2022)
 grand_parent: Data Visualization
 nav_order: 2
 ---
 
 
-## Data Visualization and Analysis Handbook (2022)
+## Data Visualization Handbook (2022)
 
 ###  Chart selection
-
-### [Index](../Data visualization and analysis handbook2022.md)
-
-1. [Data visualization check list](1_checklist.md)
-1. [Chart selection](2_chartselection.md)
-1. [Examples of visualizations](3_chartindex.md)
-1. [Examples of makeovers – from bad to good](4_makeover.md)
-1. [How to develop a story with visualizations](5_story.md)
-1. [Resources](6_resources.md)
-
-
-
-***
 
 
 ![png](img/Picture3.png)

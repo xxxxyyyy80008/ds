@@ -1,31 +1,16 @@
 ---
 layout: default
 title: Resources
-parent: Data Visualization and Analysis Handbook (2022)
+parent: Data Visualization Handbook (2022)
 grand_parent: Data Visualization
 nav_order: 6
 ---
 
 
-## Data Visualization and Analysis Handbook (2022)
+## Data Visualization Handbook (2022)
 
 ###  Resources
 
-### [Index](../Data visualization and analysis handbook2022.md)
-
-1. [Data visualization check list](1_checklist.md)
-1. [Chart selection](2_chartselection.md)
-1. [Examples of visualizations](3_chartindex.md)
-1. [Examples of makeovers – from bad to good](4_makeover.md)
-1. [How to develop a story with visualizations](5_story.md)
-1. [Resources](6_resources.md)
-
-
-
-***
-
-
-####  Resources
  
 1. FLOWINGDATA: [https://flowingdata.com/](https://flowingdata.com/)
 1. Economist: [https://www.economist.com/graphic-detail?page=1](https://www.economist.com/graphic-detail?page=1)
