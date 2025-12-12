@@ -1,14 +1,8 @@
 ---
-sort: 2
+layout: default
+title: Time Series
+parent: Feature Engineering
+nav_order: 1
 ---
 
-# tsfresh Introduction
-
-**How to install?**
-`pip install tsfresh`
-
-**Documentation url**
-
-[tsfresh](https://tsfresh.readthedocs.io/en/latest/index.html "tsfresh")
-
-{% include list.liquid all=true %}
+## Time Series Feature Extraction - tsfresh

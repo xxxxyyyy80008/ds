@@ -1,8 +1,11 @@
 ---
-sort: 4
+layout: default
 title: Simple LightGBM model with tsfresh features
-date: Jan 9, 2021
+parent: Time Series
+grand_parent: Feature Engineering
+nav_order: 4
 ---
+
 
 ## Simple LightGBM model with tsfresh features
 
