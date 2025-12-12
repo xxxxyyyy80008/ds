@@ -2,7 +2,7 @@
 layout: default
 title: How to
 parent: Misc Notes
-nav_order: 4
+nav_order: 3
 ---
 
 ## How to
