@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data visualization check list
+title: Data Visualization Check List
 parent: Data Visualization Handbook
 grand_parent: Data Visualization
 nav_order: 1
@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Data Visualization Handbook
 
-###  Data visualization check list
+###  Data Visualization Check List
 
 
 ***
