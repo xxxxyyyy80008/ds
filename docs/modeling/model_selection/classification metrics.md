@@ -1,19 +1,27 @@
-### Model Performance Evaluation Metrics for Classification Problems
+---
+layout: default
+title: Model Performance Evaluation Metrics for Classification Problems
+parent: Model Selection
+grand_parent: Modeling
+nav_order: 1
+---
 
-##### references
+## Model Performance Evaluation Metrics for Classification Problems
+
+### references
 - Luque et al., 2019Luque A., Carrasco A., Martín A., de las Heras A., The impact of class imbalance in classification performance metrics based on the binary confusion matrix, Pattern Recognition 91 (2019) 216–231, 10.1016/j.patcog.2019.02.023.
     - [https://doi.org/10.1016/j.patcog.2019.02.023](https://www.sciencedirect.com/science/article/pii/S0031320319300950)
     - [The list of metrics and formulas in the paper](https://ars.els-cdn.com/content/image/1-s2.0-S0031320319300950-mmc2.docx)
 
 
 
-##### highlights of paper
+### highlights of paper
 
 
 > "GM (Geometric Mean) and BM (Bookmaker Informedness) are the best performance metrics if their focus on successes (dismissing the errors) presents no limitation for the specific application where they are used. However, if classification errors must also be considered, then MCC (Matthews Correlation Coefficient) arises as the best choice."
 
 
-##### metrics and formulas
+### metrics and formulas
 - Confusion matrix for binary classification.
 
 ![Confusion matrix for binary classification](img/confusion_matrix.jpg)

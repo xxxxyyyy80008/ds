@@ -1,10 +1,8 @@
 ---
-sort: 4
+layout: default
 title: Hyperparameter Tuning
+parent: Modeling
+nav_order: 2
 ---
 
-
-**Hyperparameter Tuning**
-
-
-{% include list.liquid all=true %}
+## Hyperparameter Tuning

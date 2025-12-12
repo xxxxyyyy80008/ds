@@ -1,8 +1,12 @@
 ---
-title: hyperparameter tuning packages
+layout: default
+title: Python Hyperparameter Tuning Packages
+parent: Hyperparameter Tuning
+grand_parent: Modeling
+nav_order: 1
 ---
 
-### Top 2 hyperparameter tuning packages (in python): 
+### Python Hyperparameter Tuning Packages: 
 
 1. hyperopt:
  - [github page](https://github.com/hyperopt/hyperopt)
