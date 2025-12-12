@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Misc Python Notes
+title: Misc Notes
 nav_order: 9
 has_children: true
 ---
 
-# Misc Python Notes
+# Misc Notes
 
 

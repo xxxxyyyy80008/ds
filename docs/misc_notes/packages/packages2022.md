@@ -2,7 +2,7 @@
 layout: default
 title: Machine Learning Essential Packages - Jun 2022
 parent: Machine Learning Packages 
-grand_parent: Misc Python Notes
+grand_parent: Misc Notes
 nav_order: 2
 ---
 

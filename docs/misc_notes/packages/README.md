@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Machine Learning Packages
-parent: Misc Python Notes
+parent: Misc Notes
 nav_order: 3
 ---
 

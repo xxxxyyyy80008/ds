@@ -2,7 +2,7 @@
 layout: default
 title: Machine Learning Python Packages and Other Useful Tools - May 2024
 parent: Machine Learning Packages 
-grand_parent: Misc Python Notes
+grand_parent: Misc Notes
 nav_order: 4
 ---
 
