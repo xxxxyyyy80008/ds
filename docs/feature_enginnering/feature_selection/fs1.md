@@ -1,9 +1,12 @@
 ---
+layout: default
 title: Accurate and fast feature selection workflow for high-dimensional omics data
+parent: Feature Selection
+grand_parent: Feature Engineering
+nav_order: 2
 ---
 
 
-***
 ### Accurate and fast feature selection workflow for high-dimensional omics data
 [Accessed on Mar 24, 2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189875)
 

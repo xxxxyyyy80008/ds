@@ -1,3 +1,12 @@
+---
+layout: default
+title: Summary of advanced feature selection methods - Jul 2022
+parent: Feature Selection
+grand_parent: Feature Engineering
+nav_order: 1
+---
+
+
 ### Summary of advanced feature selection methods - Jul 2022
 
 1. **SPSA-FSR: Simultaneous Perturbation Stochastic Approximation for Feature Selection and Ranking - An Introduction and Accuracy Performance Comparison with Other Wrapper Methods** by  *Zeren D. Yenice, Niranjan Adhikari, Yong Kai Wong, Vural Aksakalli, Alev Taskin Gumus, Babak Abbasi* [16 Apr 2018]

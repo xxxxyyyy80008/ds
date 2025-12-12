@@ -1,10 +1,8 @@
 ---
-sort: 3
+layout: default
 title: Feature Selection
+parent: Feature Engineering
+nav_order: 2
 ---
 
-
-**Feature Selection**
-
-
-{% include list.liquid all=true %}
+## Feature Selection
