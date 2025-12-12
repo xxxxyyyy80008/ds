@@ -14,4 +14,3 @@ nav_order: 1
 - [Deep Learning Models](./docs/models/)
 - [Transfer Learning](./docs/transfer_learning/)
 - [Data Visualization](./data_vis/)
-
