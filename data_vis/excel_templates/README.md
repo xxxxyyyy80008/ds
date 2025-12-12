@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 
-## Data Visualization in Excel
+## Data Visualization in Excel (Excel Templates)
 
 
 ####  Chart Index
