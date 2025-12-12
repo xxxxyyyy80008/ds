@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Examples of visualizations
+title: Visualization Examples
 parent: Data Visualization Handbook (2019)
 grand_parent: Data Visualization
 nav_order: 3
