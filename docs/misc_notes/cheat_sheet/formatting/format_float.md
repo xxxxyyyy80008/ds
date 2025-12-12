@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Python float format: Complete Table
+title: Python float format - Complete Table
 parent: Formatting
 grand_parent: Cheat Sheet
 nav_order: 1
