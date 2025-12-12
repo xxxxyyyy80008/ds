@@ -9,8 +9,8 @@ nav_order: 1
 
 
 - [Data Processing](./data_processing/)
-- [Feature Engineering](./ds/feature_engineering/)
-- [Modeling & Evaluation](./ds/modeling/)
+- [Feature Engineering](./feature_engineering/)
+- [Modeling & Evaluation](./modeling/)
 - [Deep Learning Models](./models/)
 - [Transfer Learning](./transfer_learning/)
 - [Data Visualization](./data_vis/)
