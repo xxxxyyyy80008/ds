@@ -1,16 +1,18 @@
 ---
 layout: default
 title: Data visualization check list
-parent: Data Visualization Handbook (2019)
+parent: Data Visualization Handbook (2022)
 grand_parent: Data Visualization
 nav_order: 1
 ---
 
 
-## Data Visualization Handbook (2019)
+## Data Visualization Handbook (2022)
 
 ###  Data visualization check list
 
+
+***
 
 #### Text
 
@@ -135,10 +137,10 @@ Choices about graph type, text, arrangement, color, and lines should reinforce t
 ***
 
 #### Data Visualization Anatomy Chart
-![png](examples/img/Picture1.png)
+![png](img/Picture1.png)
 
 
-![png](examples/img/Picture2.jpg)
+![png](img/Picture2.jpg)
 
 
 *reference:*
