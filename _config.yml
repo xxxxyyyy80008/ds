@@ -1,5 +1,5 @@
 title: "Data Science"
-description: "Research notes and projects in quantitative finance, statistics, and machine learning."
+description: "Research notes and projects in data science and machine learning."
 remote_theme: just-the-docs/just-the-docs
 
 # Just the Docs settings
@@ -18,3 +18,88 @@ kramdown:
 url: "https://xxxxyyyy80008.github.io"
 baseurl: "/ds" 
 
+
+# Back to Top Button
+back_to_top: true
+back_to_top_text: "↑ Top"
+
+# Heading anchor links
+heading_anchors: true
+# Callouts (for highlighting key info)
+callouts_level: quiet
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+# Code copy button
+enable_copy_code_button: true
+
+# Mermaid diagrams
+mermaid:
+  version: "10.6.0"
+
+# Collections for navigation
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+# Default layout
+defaults:
+  - scope:
+      path: "index.md"
+    values:
+      has_toc: false
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
+      # has_toc: false
+
+# Markdown processor settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax  
+
+# highlighter separately
+highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Exclude notebooks folder from Just the Docs navigation
+# but Jekyll will still copy it to _site/
+just_the_docs:
+  collections:
+    docs:
+      nav_exclude: false
+
+# Make sure notebooks folder is included in build
+include:
+  - notebooks
+
+# Files to exclude from processing (but still copy)
+exclude_from_nav:
+  - notebooks/
