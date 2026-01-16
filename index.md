@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Data Science
+title: Home
 nav_order: 1
+description: "Data Science and Machine Learning."
+permalink: /
 ---
+
 
 # Data Science
 
