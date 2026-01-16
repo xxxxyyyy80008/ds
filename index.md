@@ -6,8 +6,8 @@ description: "Data Science and Machine Learning."
 permalink: /
 ---
 
-
 # Data Science
+{: .fs-7 }
 
 
 

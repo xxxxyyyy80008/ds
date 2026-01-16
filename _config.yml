@@ -1,15 +1,9 @@
-title: "A W | Data Science"
-description: "Research notes and projects in data science and machine learning."
+title: "A W"
+description: "Data Science, Machine Learning"
 remote_theme: just-the-docs/just-the-docs
 
 # Just the Docs settings
-color_scheme: light # or "light"
-logo: "/assets/img/logo.png" # optional
-search_enabled: true
-search:
-  rel_url: true
-  button: true
-
+color_scheme: light
 
 # Search
 search_enabled: true
@@ -40,6 +34,8 @@ mathjax_autoNumber: true
 url: "https://xxxxyyyy80008.github.io"
 baseurl: "/ds" 
 
+# Footer
+footer_content: "© 2026 A W. Quantitative Research"
 
 # Back to Top Button
 back_to_top: true
@@ -47,6 +43,13 @@ back_to_top_text: "↑ Top"
 
 # Heading anchor links
 heading_anchors: true
+
+# External navigation links
+nav_external_links:
+  - title: GitHub Repos
+    url: https://github.com/xxxxyyyy80008
+    hide_icon: false
+
 # Callouts (for highlighting key info)
 callouts_level: quiet
 callouts:
